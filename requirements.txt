@@ -1,7 +1,8 @@
-langchain-google-genai
+streamlit
+python-dotenv
 langchain
 langchain-community
 langchain-text-splitters
-dotenvcl
+langchain-google-genai
+google-genai
 pypdf
-streamlit
